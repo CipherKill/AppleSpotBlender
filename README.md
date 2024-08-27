@@ -14,10 +14,10 @@ _Note: Browser may flag program as unsafe. Choose keep option to continue downlo
 2. Opening the program would open a Command Line Interface (CLI).
 3. Follow the instructions as displayed in the program.
 
-![Image1]()  
-![Image2]()  
-![Image3]()  
-![Image4]()  
+<img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/1.png" alt="Alt text" style="width:50%;">
+<img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/2.png" alt="Alt text" style="width:50%;">
+<img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/3.png" alt="Alt text" style="width:50%;">
+<img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/4.png" alt="Alt text" style="width:50%;">
 
 > [!NOTE]  
 > Will be adding the python file soon.
