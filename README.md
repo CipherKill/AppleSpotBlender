@@ -22,6 +22,7 @@ _Note: Browser may flag program as unsafe. Choose keep option to continue downlo
 4. Edit the code by adding your spotify keys at line 95 and 96.  
 5. Run the program and follow the instructions in the CLI.  
 
+# Screenshots  
 <img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/1.png" alt="Alt text" style="width:50%;">
 <img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/2.png" alt="Alt text" style="width:50%;">
 <img src="https://github.com/ReptilianPride/AppleSpotBlender/blob/main/Images/3.png" alt="Alt text" style="width:50%;">
