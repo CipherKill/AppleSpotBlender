@@ -4,6 +4,7 @@ A program to convert Apple Music Playlist to Spotify Playlist.
 
 🔴 **Note: I have changed my name from CipherKill to ReptilianPride**
 
+YouTube Tutorial: [How to convert Apple Music Playlist to Spotify Playlist](https://youtu.be/hjk2L0thrqw)
 
 ## How to run
 
