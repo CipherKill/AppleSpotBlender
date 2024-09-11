@@ -1,7 +1,9 @@
 # AppleSpotBlender - The Apple to Spotify Playlist Converter
 
 A program to convert Apple Music Playlist to Spotify Playlist.  
-Note: I have changed my name from CipherKill to ReptilianPride  
+
+🔴 **Note: I have changed my name from CipherKill to ReptilianPride**
+
 
 ## How to run
 
